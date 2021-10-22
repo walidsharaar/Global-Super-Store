@@ -26,15 +26,3 @@ Seeing as each salesperson works on different products and customers it would be
 - Other Relevant Info?
 
 
-#User Stories
-
-+----+----------------------+---------------------------------------------------+--------------------------------------------------------------------------+-----------------------------------------------------------------------+
-| No |     As a (Role)      |              I want(Request/Demand)               |                           So that(User Value)                            |                          Acceptance Criteria                          |
-+----+----------------------+---------------------------------------------------+--------------------------------------------------------------------------+-----------------------------------------------------------------------+
-|  1 | Sales Manager        | To get a dashboard overview of sales              | Can follow better which customers and products sell the best             | A Power BI dashboard which updates data once a day                    |
-|  2 | Sales Representative | A detailed overview of the internet per customers | Can follow up my customers that buys the most and who we can sell one to | A Power BI dashboard which allows me to filter data for each customer |
-|  3 | Sales Representative | A detailed overview of sales per product          | Can follow up my products that sells the most                            | A Power BI dashboard which allows me to filter data for each product  |
-|  4 | Sales Manager        | A dashboard overview of sales                     | Follow sales over time                                                   | A Power BI dashboard with graphs and KPIs.                            |
-+----+----------------------+---------------------------------------------------+--------------------------------------------------------------------------+-----------------------------------------------------------------------+
-
-
