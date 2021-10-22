@@ -10,4 +10,8 @@ This is a dataset which was download from the following link:
 
 https://www.kaggle.com/shekpaul/global-superstore
 
+# Business Request
 
+We need to improve our sales reports and want to move from a static report to a visual dashboard.  Essentially, we want to focus it on how much we have sold of what products, to which clients, and how it has been over time.
+
+Seeing as each salesperson works on different products and customers it would be beneficial to be able to filter them also. Forcasting sales by market and by segment is important for us. Moreover, we like to filter the sale/year and average delivery days as well as topmost profitable products of all time and who are our top customers.
