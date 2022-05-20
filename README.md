@@ -25,6 +25,9 @@ Seeing as each salesperson works on different products and customers it would be
 - Necessary Systems: Power BI, Dataset
 - Other Relevant Info?
 
+## User Stories
+![1642627832352](https://user-images.githubusercontent.com/29350894/169554439-82ebcb05-ac0b-4a0b-bcf6-b5b56e995a85.jpg)
+
 
 ## Dashboard
 ![1642627832506](https://user-images.githubusercontent.com/29350894/169554275-66b92eb3-9ad9-4a2c-be09-703e21674d3d.jpg)
