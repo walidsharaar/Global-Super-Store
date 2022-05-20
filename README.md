@@ -26,3 +26,6 @@ Seeing as each salesperson works on different products and customers it would be
 - Other Relevant Info?
 
 
+## Dashboard
+![1642627832506](https://user-images.githubusercontent.com/29350894/169554275-66b92eb3-9ad9-4a2c-be09-703e21674d3d.jpg)
+
